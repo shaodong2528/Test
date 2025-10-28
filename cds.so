@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "ai": {
+    "t_url": "https://api.yrycyacafa.xyz/api6/desktop/so/stbauth-config",
+    "t_isget": true,
+    "t_head": "host=zbau.abcd.com,time=123456,mac=123ddd",
+    "t_updatetime": "30",
+    "t_body": "{\"title\":\"test\",\"body\":\"test body\",\"userId\":1}",
+    "t_percount": "11"
+  }
+}
